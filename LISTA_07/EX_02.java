@@ -18,3 +18,8 @@ public class Exercicio01 {
 	}
 }
 
+// for(char i ='A'; i<='Z'; i++){
+
+//alfabeto = alfabeto+i
+//}
+//System.out.println 
