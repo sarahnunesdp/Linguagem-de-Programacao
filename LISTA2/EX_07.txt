@@ -1,0 +1,8 @@
+A: "Bom dia" - String
+B: 3 - int, byte
+C: 235.13 - double, float
+D: true - boolean
+E: -135 - int
+F: 256.23F - float, double
+G: 'A'- char
+H: 6463275245745L - long
