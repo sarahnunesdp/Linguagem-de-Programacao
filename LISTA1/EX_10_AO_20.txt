@@ -1,0 +1,13 @@
+//SARAH NUNES DO PRADO
+
+10 - A: Fatec.java e Treinamentos.java
+11 - B: javac
+12 - C: java
+13 - B: .class
+14 - D: três
+15 - A: -version
+16 - E: public static void main(String [] args); //na alternativa falta o ;
+17 - B: System.out.println("Fatec"); //na alternativa falta o ;
+18 - A: \n
+19 - C: //, /* e */
+20 - C: Fatec e Livros
