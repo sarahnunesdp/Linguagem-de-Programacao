@@ -1,3 +1,6 @@
+//SARAH NUNES DO PRADO
+//L3EX09
+
 public class OperadoresDeAtribuicao {
     public static void main (String [] args) {
         
