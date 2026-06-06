@@ -1,3 +1,6 @@
+//SARAH NUNES DO PRADO
+//L4EX02
+
 import java.util.Scanner;
 
 public class Nota{
