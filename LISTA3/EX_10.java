@@ -1,3 +1,6 @@
+//SARAH NUNES DO PRADO
+//L3EX10
+
 public class OperadoresRelacionais {
     public static void main( String [] args) {
       
