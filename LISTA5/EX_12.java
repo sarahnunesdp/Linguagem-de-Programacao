@@ -10,9 +10,9 @@ public class ExercioLista {
         double frete, valorFrete, valorFinal;
         String regiao;
 
-        System.out.println("Digite o código do produto: ");
+        System.out.print("Digite o código do produto: ");
         int codigo = sc.nextInt();
-        System.out.println("Digite o valor do produto: ");
+        System.out.print("Digite o valor do produto: ");
         double preco = sc.nextDouble();
 
         switch (codigo){
@@ -46,9 +46,10 @@ public class ExercioLista {
         valorFinal = valorFrete+preco;
 
         System.out.println("============================");
-        System.out.printf("Valor do produto: &.2f%n", preco);
+        System.out.printf("Valor do produto: %.2f%n", preco);
         System.out.println("Região de procedência: " + regiao);
         System.out.printf("Valor do frete calculado: %.2f%n ", valorFrete);
+        System.out.printf("Valor Final: %.2f%n", valorFinal);
 
 
 
