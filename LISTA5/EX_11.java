@@ -1,6 +1,5 @@
-/*
-LISTA 5 - EX 10
- */
+//SARAH NUNES DO PRADO
+//L5EX011
 
 import java.util.Scanner; 
 
