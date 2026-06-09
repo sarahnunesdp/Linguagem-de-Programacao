@@ -1,3 +1,7 @@
+//SARAH NUNES DO PRADO
+//L6EX06
+
+
 import java.util.Scanner;
 
 public class Main {
