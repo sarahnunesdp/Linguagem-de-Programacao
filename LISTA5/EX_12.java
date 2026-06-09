@@ -1,3 +1,6 @@
+//SARAJ NUNES DO PRADO
+//L5EX12
+
 import java.util.Scanner;
 
 public class ExercioLista {
@@ -43,7 +46,7 @@ public class ExercioLista {
         valorFinal = valorFrete+preco;
 
         System.out.println("============================");
-        System.out.printf("Vlor do produto: &.2f%n", preco);
+        System.out.printf("Valor do produto: &.2f%n", preco);
         System.out.println("Região de procedência: " + regiao);
         System.out.printf("Valor do frete calculado: %.2f%n ", valorFrete);
 
