@@ -1,3 +1,6 @@
+//SARAH NUNES DO PRADO
+//L5EX05
+
 import java.util.Scanner;
 
 public class Media{
