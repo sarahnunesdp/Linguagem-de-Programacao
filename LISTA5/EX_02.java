@@ -1,3 +1,6 @@
+//SARAH NUNES DO PRADO
+//L5EX02
+
 import java.util.Scanner;
 
 public class Calcular{
