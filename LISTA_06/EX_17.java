@@ -8,6 +8,11 @@ public class MediaAluno{
         Scanner sc = new Scanner (System.in);
         
         double nota1, nota2, media;
+        char continuar;
+        
+        
+        do{
+            
         
         //valida nota1
         do{
@@ -32,6 +37,15 @@ public class MediaAluno{
         }while(nota2<0 || nota2>10);
         
         media = (nota1+nota2)/2;
-        System.out.printf("A média final é %.2f ", media );
+        System.out.printf("A média final é %.2f%n ", media );
+        System.out.println("===============================");
+        
+        System.out.println("Novo Cálculo? (S/N)");
+        continuar = sc.next().charAt(0);
+        
+        
+        } while (continuar =='S');
+        
+        System.out.println("Programa finalizado");
     }
 }
